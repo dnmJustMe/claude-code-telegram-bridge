@@ -15,7 +15,6 @@
 ## Índice
 
 - [Qué hace](#qué-hace)
-- [Cómo se ve](#cómo-se-ve)
 - [Cómo funciona](#cómo-funciona)
 - [Requisitos](#requisitos)
 - [Instalación rápida](#instalación-rápida)
@@ -43,14 +42,6 @@
 | 🔘 **Decisiones con botones** | Cuando Claude te hace una pregunta con opciones en un turno pedido desde Telegram, te llega con botones (selección simple o múltiple, o respuesta libre). |
 | 📄 **Respuestas largas** | Se parten en varias partes encadenadas ("parte 2/3 · continuación"), sin cortar bloques de código. |
 | 🟢 **Salud** | El puente avisa cuando vuelve a estar activo, y si se cae, el siguiente aviso lo indica e intenta reiniciarlo. |
-
-## Cómo se ve
-
-> Agrega aquí tus capturas (ver [docs/img/README.md](docs/img/README.md) para la lista sugerida).
-
-| Aviso con color de sesión y botón Responder | Pregunta con botones | Mensaje entregado en VS Code |
-|---|---|---|
-| ![aviso](docs/img/aviso.png) | ![botones](docs/img/botones.png) | ![vscode](docs/img/vscode.png) |
 
 ## Cómo funciona
 
