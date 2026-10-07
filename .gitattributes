@@ -1,0 +1,6 @@
+# Los scripts son para Windows PowerShell 5.1: CRLF y UTF-8 con BOM.
+*.ps1  text eol=crlf
+*.md   text eol=lf
+*.json text eol=lf
+*.jpg  binary
+*.png  binary

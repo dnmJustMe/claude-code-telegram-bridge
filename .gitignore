@@ -1,0 +1,19 @@
+# Configuración real (contiene el token del bot): nunca se sube.
+config.json
+*.bak-*
+
+# Estado y logs que genera el puente en tiempo de ejecución.
+sessions.json
+offset.txt
+heartbeat.txt
+bridge.log
+bridge.log.1
+jobs/
+inbox/
+questions/
+
+# Editores / SO
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

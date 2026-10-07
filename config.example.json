@@ -1,0 +1,9 @@
+{
+  "botToken": "123456789:AAH-tu-token-de-BotFather",
+  "allowedUserId": 123456789,
+  "chatId": 123456789,
+  "permissionMode": "acceptEdits",
+  "maxMessageAgeMinutes": 10,
+  "busyStaleMinutes": 120,
+  "fallbackNotifyUrl": ""
+}
